@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AndroidSubmision1</string>
+    <string name="github_user_list">Github User List</string>
+    <string name="user_favorite">User Favorite</string>
+    <string name="search_hint">Input User Name</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="title_dynamicfeature">Dark Mode</string>
+    <string name="title_darktheme">Dark Theme</string>
+    <string name="title_photoprofile">PhotoProfile</string>
+    <string name="title_countfavorite">Count Favorite</string>
+    <string name="total_user_button">Total User Button</string>
+</resources>
